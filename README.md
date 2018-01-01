@@ -18,12 +18,12 @@ own database to work with the files.
 or if you have postgres and python(2.7) setup already and just want to play
 around with some queries :
 
-`sh
+```sh
 $ >> createdb tournament
 $ >> psql
 $ >> \c tournament
 $ >> \i tournament.sql
-`
+```
 
 - Run the tests via python from the folder that you clone into
 ` $ python tournament_test.py `
