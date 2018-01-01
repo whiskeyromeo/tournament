@@ -25,5 +25,6 @@ $ >> \i tournament.sql
 ```
 
 - Run the tests via python from the folder that you clone into
+
 ``` $ python tournament_test.py ```
 
