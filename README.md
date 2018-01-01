@@ -8,9 +8,8 @@ as of 12.10.2015
 
 ## How to use this
 
-You may interact with the project by using the vagrant virtual 
-machine built into the Udacity course, or you may set up your
-own database to work with the files.
+You will need to have postgres installed and have the
+requisite permissions for Creating new schemas, tables, etc.
 
 ## Seting up the DB
 
